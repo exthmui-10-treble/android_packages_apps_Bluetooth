@@ -185,6 +185,7 @@ public class Constants {
             "text/plain",
             "text/html",
             "text/xml",
+            "text/comma-separated-values",
             "application/zip",
             "application/vnd.ms-excel",
             "application/msword",
@@ -194,6 +195,9 @@ public class Constants {
             "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
             "application/vnd.openxmlformats-officedocument.presentationml.presentation",
             "application/x-hwp",
+            "application/ogg",
+            "application/vnd.android.package-archive",
+            "*/*",
     };
 
     /** Where we store received files */
